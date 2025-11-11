@@ -34,7 +34,7 @@ return {
         "query",
         "vimdoc",
         "c",
-        "plython",
+        "python",
         "ruby",
         "go",
         "rust"
